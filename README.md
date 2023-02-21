@@ -1,2 +1,9 @@
-# data_warehouse_mining
-Data Warehouse and Mining 
+Name **Ramandeep Kaur**
+
+Class **MCA** 
+
+Roll No. **2229012** 
+
+Hobbies **Reading**
+
+Intrest In **Software Development**
